@@ -149,11 +149,14 @@ ul{
 		}
 		#box .section.active .section-box .top{
 			top: 72px;
-			opacity: 1;	
+			opacity: 1;
 			text-align: center;
 			
 		}
+		#box .section.active .section-box .top.l{
+			top: 142px;
 
+		}
 		#box .section .section-box .top h5{
 			width: 69px;
 			height: 21px;
